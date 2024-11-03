@@ -9,7 +9,7 @@
 The official Linux Dynamic Wallpapers hasn't been updated for over a year, with numerous pull requests waiting for approval.
 The owner of the repository hasn't made a commit since May 23 2023 so we can assume that their account is inactive. Since I think this is an amazing project, I wouldn't want it to go to waste. Therefore I created this repository in an effort to revive this project.
 
-I also created this fork because the install script is broken, and I want to it work :3
+I also created this fork because the install script is broken, and I want it to work :3
 
 ## 🎨 Preview
 ### Abstract
